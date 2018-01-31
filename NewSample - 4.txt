@@ -1,3 +1,0 @@
-This is first code in project..
-
-And i am QA Eng. writing the scripts.
